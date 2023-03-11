@@ -8,7 +8,14 @@
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png",
       "flavor_text": "スーパーボールよりも　さらに\nポケモンを　つかまえやすくなった\nすごく　せいのうのいい　ボール。",
       "tags": [
-        "フスベシティ"
+        "フスベシティ",
+        "トキワシティ",
+        "ハナダシティ",
+        "クチバシティ",
+        "タマムシデパート",
+        "ヤマブキシティ",
+        "セキチクシティ",
+        "セキエイ高原"
       ]
     },
     {
@@ -23,7 +30,13 @@
         "エンジュシティ",
         "アサギシティ",
         "チョウジタウン",
-        "フスベシティ"
+        "フスベシティ",
+        "ニビシティ",
+        "ハナダシティ",
+        "シオンタウン",
+        "タマムシデパート",
+        "ヤマブキシティ",
+        "セキチクシティ"
       ]
     },
     {
@@ -38,7 +51,8 @@
         "キキョウシティ",
         "ヒワダタウン",
         "コガネ百貨店",
-        "エンジュシティ"
+        "エンジュシティ",
+        "タマムシデパート"
       ]
     },
     {
@@ -53,7 +67,9 @@
         "キキョウシティ",
         "ヒワダタウン",
         "コガネ百貨店",
-        "エンジュシティ"
+        "エンジュシティ",
+        "シオンタウン",
+        "タマムシデパート"
       ]
     },
     {
@@ -70,7 +86,11 @@
         "コガネ百貨店",
         "エンジュシティ",
         "アサギシティ",
-        "チョウジタウン"
+        "チョウジタウン",
+        "トキワシティ",
+        "ニビシティ",
+        "クチバシティ",
+        "タマムシデパート"
       ]
     },
     {
@@ -81,7 +101,11 @@
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/burn-heal.png",
       "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　やけどの\nじょうたいを　かいふくする。",
       "tags": [
-        "エンジュシティ"
+        "エンジュシティ",
+        "トキワシティ",
+        "ニビシティ",
+        "クチバシティ",
+        "シオンタウン"
       ]
     },
     {
@@ -94,7 +118,8 @@
       "tags": [
         "コガネ百貨店",
         "エンジュシティ",
-        "アサギシティ"
+        "アサギシティ",
+        "タマムシデパート"
       ]
     },
     {
@@ -109,7 +134,12 @@
         "キキョウシティ",
         "コガネ百貨店",
         "エンジュシティ",
-        "アサギシティ"
+        "アサギシティ",
+        "トキワシティ",
+        "ニビシティ",
+        "クチバシティ",
+        "シオンタウン",
+        "タマムシデパート"
       ]
     },
     {
@@ -126,7 +156,12 @@
         "コガネ百貨店",
         "エンジュシティ",
         "アサギシティ",
-        "チョウジタウン"
+        "チョウジタウン",
+        "トキワシティ",
+        "ニビシティ",
+        "クチバシティ",
+        "シオンタウン",
+        "タマムシデパート"
       ]
     },
     {
@@ -136,7 +171,9 @@
       "category": "healing",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-restore.png",
       "flavor_text": "ポケモン　１ひきの　ＨＰと\nじょうたい　いじょうを　すべて\nかいふくする。",
-      "tags": []
+      "tags": [
+        "セキエイ高原"
+      ]
     },
     {
       "id": 24,
@@ -146,7 +183,10 @@
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-potion.png",
       "flavor_text": "スプレーしきの　キズぐすり。\nポケモン　１ひきの　ＨＰを\nすべて　かいふくする。",
       "tags": [
-        "フスベシティ"
+        "フスベシティ",
+        "タマムシデパート",
+        "ヤマブキシティ",
+        "セキエイ高原"
       ]
     },
     {
@@ -159,7 +199,14 @@
       "tags": [
         "アサギシティ",
         "チョウジタウン",
-        "フスベシティ"
+        "フスベシティ",
+        "トキワシティ",
+        "クチバシティ",
+        "シオンタウン",
+        "タマムシデパート",
+        "ヤマブキシティ",
+        "セキチクシティ",
+        "セキエイ高原"
       ]
     },
     {
@@ -174,7 +221,13 @@
         "コガネ百貨店",
         "エンジュシティ",
         "アサギシティ",
-        "チョウジタウン"
+        "チョウジタウン",
+        "ニビシティ",
+        "ハナダシティ",
+        "クチバシティ",
+        "シオンタウン",
+        "タマムシデパート",
+        "セキチクシティ"
       ]
     },
     {
@@ -186,7 +239,13 @@
       "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　じょうたいの\nいじょうを　すべて　かいふくする。",
       "tags": [
         "コガネ百貨店",
-        "フスベシティ"
+        "フスベシティ",
+        "トキワシティ",
+        "ハナダシティ",
+        "タマムシデパート",
+        "ヤマブキシティ",
+        "セキチクシティ",
+        "セキエイ高原"
       ]
     },
     {
@@ -200,7 +259,11 @@
         "コガネ百貨店",
         "エンジュシティ",
         "チョウジタウン",
-        "フスベシティ"
+        "フスベシティ",
+        "トキワシティ",
+        "シオンタウン",
+        "タマムシデパート",
+        "セキエイ高原"
       ]
     },
     {
@@ -244,7 +307,8 @@
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hp-up.png",
       "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　ＨＰの\nきそポイントを　あげる。",
       "tags": [
-        "コガネ百貨店"
+        "コガネ百貨店",
+        "タマムシデパート"
       ]
     },
     {
@@ -255,7 +319,8 @@
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protein.png",
       "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　こうげきの\nきそポイントを　あげる。",
       "tags": [
-        "コガネ百貨店"
+        "コガネ百貨店",
+        "タマムシデパート"
       ]
     },
     {
@@ -266,7 +331,8 @@
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron.png",
       "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　ぼうぎょの\nきそポイントを　あげる。",
       "tags": [
-        "コガネ百貨店"
+        "コガネ百貨店",
+        "タマムシデパート"
       ]
     },
     {
@@ -277,7 +343,8 @@
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/carbos.png",
       "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　すばやさの\nきそポイントを　あげる。",
       "tags": [
-        "コガネ百貨店"
+        "コガネ百貨店",
+        "タマムシデパート"
       ]
     },
     {
@@ -288,7 +355,8 @@
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/calcium.png",
       "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　とくこうの\nきそポイントを　あげる。",
       "tags": [
-        "コガネ百貨店"
+        "コガネ百貨店",
+        "タマムシデパート"
       ]
     },
     {
@@ -311,7 +379,10 @@
       "flavor_text": "せんとうちゅうの　ポケモンの\nこうげきを　あげる　どうぐ。\nひっこめると　もとに　もどる。",
       "tags": [
         "キキョウシティ",
-        "フスベシティ"
+        "フスベシティ",
+        "ハナダシティ",
+        "タマムシデパート",
+        "ヤマブキシティ"
       ]
     },
     {
@@ -323,7 +394,10 @@
       "flavor_text": "せんとうちゅうの　ポケモンの\nぼうぎょを　あげる　どうぐ。\nひっこめると　もとに　もどる。",
       "tags": [
         "キキョウシティ",
-        "フスベシティ"
+        "フスベシティ",
+        "ハナダシティ",
+        "タマムシデパート",
+        "ヤマブキシティ"
       ]
     },
     {
@@ -334,7 +408,8 @@
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed.png",
       "flavor_text": "せんとうちゅうの　ポケモンの\nすばやさを　あげる　どうぐ。\nひっこめると　もとに　もどる。",
       "tags": [
-        "キキョウシティ"
+        "キキョウシティ",
+        "タマムシデパート"
       ]
     },
     {
@@ -344,7 +419,9 @@
       "category": "stat-boosts",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy.png",
       "flavor_text": "せんとうちゅうの　ポケモンの\nめいちゅうを　あげる　どうぐ。\nひっこめると　もとに　もどる。",
-      "tags": []
+      "tags": [
+        "タマムシデパート"
+      ]
     },
     {
       "id": 61,
@@ -353,7 +430,9 @@
       "category": "stat-boosts",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk.png",
       "flavor_text": "せんとうちゅうの　ポケモンの\nとくこうを　あげる　どうぐ。\nひっこめると　もとに　もどる。",
-      "tags": []
+      "tags": [
+        "タマムシデパート"
+      ]
     },
     {
       "id": 55,
@@ -362,7 +441,9 @@
       "category": "stat-boosts",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/guard-spec.png",
       "flavor_text": "せんとうちゅう　５ターンの　あいだ\nみかたの　のうりょくを\nさげられなくする　どうぐ。",
-      "tags": []
+      "tags": [
+        "タマムシデパート"
+      ]
     },
     {
       "id": 56,
@@ -371,7 +452,10 @@
       "category": "stat-boosts",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit.png",
       "flavor_text": "きゅうしょりつが　おおきく　あがる。\nいちどしか　つかうことが　できない。\nひっこめると　もとに　もどる。",
-      "tags": []
+      "tags": [
+        "ハナダシティ",
+        "タマムシデパート"
+      ]
     },
     {
       "id": 63,
@@ -381,7 +465,8 @@
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-doll.png",
       "flavor_text": "ポケモンの　きを　ひかせる　どうぐ。\nやせいポケモンとの　せんとうから\nぜったいに　にげられる。",
       "tags": [
-        "コガネ百貨店"
+        "コガネ百貨店",
+        "タマムシデパート"
       ]
     },
     {
@@ -404,7 +489,10 @@
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-repel.png",
       "flavor_text": "２００ぽ　すすむ　あいだ\nよわい　やせいの　ポケモンが\nまったく　でて　こなくなる。",
       "tags": [
-        "アサギシティ"
+        "アサギシティ",
+        "ニビシティ",
+        "ハナダシティ",
+        "タマムシデパート"
       ]
     },
     {
@@ -415,7 +503,11 @@
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-repel.png",
       "flavor_text": "２５０ぽ　すすむ　あいだ\nよわい　やせいの　ポケモンが\nまったく　でて　こなくなる。",
       "tags": [
-        "フスベシティ"
+        "フスベシティ",
+        "クチバシティ",
+        "タマムシデパート",
+        "セキチクシティ",
+        "セキエイ高原"
       ]
     },
     {
@@ -428,7 +520,8 @@
       "tags": [
         "キキョウシティ",
         "ヒワダタウン",
-        "コガネ百貨店"
+        "コガネ百貨店",
+        "タマムシデパート"
       ]
     },
     {
@@ -460,7 +553,9 @@
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
       "flavor_text": "わざを　つかった　ポケモンに　よって\nわざの　タイプが　かわる。\n",
-      "tags": []
+      "tags": [
+        "タマムシデパート"
+      ]
     },
     {
       "id": 315,
@@ -469,7 +564,9 @@
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
       "flavor_text": "５ターンの　あいだ　ひざしを\nつよくして　ほのおタイプの\nわざの　いりょくを　あげる。",
-      "tags": []
+      "tags": [
+        "タマムシデパート"
+      ]
     },
     {
       "id": 321,
@@ -478,7 +575,9 @@
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
       "flavor_text": "こうげきを　まったく　うけない。\nわざを　れんぞくで　だすと\nしっぱい　しやすくなる。",
-      "tags": []
+      "tags": [
+        "タマムシデパート"
+      ]
     },
     {
       "id": 322,
@@ -487,7 +586,9 @@
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
       "flavor_text": "５ターンの　あいだ　あめを　ふらして\nみずタイプの　わざの　いりょくを\nあげる。",
-      "tags": []
+      "tags": [
+        "タマムシデパート"
+      ]
     },
     {
       "id": 337,
@@ -507,7 +608,9 @@
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
       "flavor_text": "５ターンの　あいだ　すなあらしで\nじめん　いわ　はがね　タイプいがいに\nダメージを　あたえる。",
-      "tags": []
+      "tags": [
+        "タマムシデパート"
+      ]
     },
     {
       "id": 345,
