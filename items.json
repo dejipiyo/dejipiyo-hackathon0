@@ -6,7 +6,10 @@
       "name": "ハイパーボール",
       "category": "standard-balls",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png",
-      "flavor_text": "スーパーボールよりも　さらに\nポケモンを　つかまえやすくなった\nすごく　せいのうのいい　ボール。"
+      "flavor_text": "スーパーボールよりも　さらに\nポケモンを　つかまえやすくなった\nすごく　せいのうのいい　ボール。",
+      "tags": [
+        "フスベシティ"
+      ]
     },
     {
       "id": 3,
@@ -14,7 +17,14 @@
       "name": "スーパーボール",
       "category": "standard-balls",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png",
-      "flavor_text": "モンスターボールよりも　さらに\nポケモンを　つかまえやすくなった\nすこし　せいのうのいい　ボール。"
+      "flavor_text": "モンスターボールよりも　さらに\nポケモンを　つかまえやすくなった\nすこし　せいのうのいい　ボール。",
+      "tags": [
+        "コガネ百貨店",
+        "エンジュシティ",
+        "アサギシティ",
+        "チョウジタウン",
+        "フスベシティ"
+      ]
     },
     {
       "id": 4,
@@ -22,7 +32,14 @@
       "name": "モンスターボール",
       "category": "standard-balls",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png",
-      "flavor_text": "やせいの　ポケモンに　なげて\nつかまえる　ための　ボール。\nカプセルしきに　なっている。"
+      "flavor_text": "やせいの　ポケモンに　なげて\nつかまえる　ための　ボール。\nカプセルしきに　なっている。",
+      "tags": [
+        "ヨシノシティ",
+        "キキョウシティ",
+        "ヒワダタウン",
+        "コガネ百貨店",
+        "エンジュシティ"
+      ]
     },
     {
       "id": 17,
@@ -30,7 +47,14 @@
       "name": "キズぐすり",
       "category": "healing",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/potion.png",
-      "flavor_text": "スプレーしきの　キズぐすり。\nポケモン　１ひきの　ＨＰを\n２０だけ　かいふくする。"
+      "flavor_text": "スプレーしきの　キズぐすり。\nポケモン　１ひきの　ＨＰを\n２０だけ　かいふくする。",
+      "tags": [
+        "ヨシノシティ",
+        "キキョウシティ",
+        "ヒワダタウン",
+        "コガネ百貨店",
+        "エンジュシティ"
+      ]
     },
     {
       "id": 18,
@@ -38,7 +62,16 @@
       "name": "どくけし",
       "category": "status-cures",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/antidote.png",
-      "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　どくの\nじょうたいを　かいふくする。"
+      "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　どくの\nじょうたいを　かいふくする。",
+      "tags": [
+        "ヨシノシティ",
+        "キキョウシティ",
+        "ヒワダタウン",
+        "コガネ百貨店",
+        "エンジュシティ",
+        "アサギシティ",
+        "チョウジタウン"
+      ]
     },
     {
       "id": 19,
@@ -46,7 +79,10 @@
       "name": "やけどなおし",
       "category": "status-cures",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/burn-heal.png",
-      "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　やけどの\nじょうたいを　かいふくする。"
+      "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　やけどの\nじょうたいを　かいふくする。",
+      "tags": [
+        "エンジュシティ"
+      ]
     },
     {
       "id": 20,
@@ -54,7 +90,12 @@
       "name": "こおりなおし",
       "category": "status-cures",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-heal.png",
-      "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　こおりの\nじょうたいを　かいふくする。"
+      "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　こおりの\nじょうたいを　かいふくする。",
+      "tags": [
+        "コガネ百貨店",
+        "エンジュシティ",
+        "アサギシティ"
+      ]
     },
     {
       "id": 21,
@@ -62,7 +103,14 @@
       "name": "ねむけざまし",
       "category": "status-cures",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/awakening.png",
-      "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　ねむりの\nじょうたいを　かいふくする。"
+      "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　ねむりの\nじょうたいを　かいふくする。",
+      "tags": [
+        "ヨシノシティ",
+        "キキョウシティ",
+        "コガネ百貨店",
+        "エンジュシティ",
+        "アサギシティ"
+      ]
     },
     {
       "id": 22,
@@ -70,7 +118,16 @@
       "name": "まひなおし",
       "category": "status-cures",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/paralyze-heal.png",
-      "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　まひの\nじょうたいを　かいふくする。"
+      "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　まひの\nじょうたいを　かいふくする。",
+      "tags": [
+        "ヨシノシティ",
+        "キキョウシティ",
+        "ヒワダタウン",
+        "コガネ百貨店",
+        "エンジュシティ",
+        "アサギシティ",
+        "チョウジタウン"
+      ]
     },
     {
       "id": 23,
@@ -78,7 +135,8 @@
       "name": "かいふくのくすり",
       "category": "healing",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-restore.png",
-      "flavor_text": "ポケモン　１ひきの　ＨＰと\nじょうたい　いじょうを　すべて\nかいふくする。"
+      "flavor_text": "ポケモン　１ひきの　ＨＰと\nじょうたい　いじょうを　すべて\nかいふくする。",
+      "tags": []
     },
     {
       "id": 24,
@@ -86,7 +144,10 @@
       "name": "まんたんのくすり",
       "category": "healing",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-potion.png",
-      "flavor_text": "スプレーしきの　キズぐすり。\nポケモン　１ひきの　ＨＰを\nすべて　かいふくする。"
+      "flavor_text": "スプレーしきの　キズぐすり。\nポケモン　１ひきの　ＨＰを\nすべて　かいふくする。",
+      "tags": [
+        "フスベシティ"
+      ]
     },
     {
       "id": 25,
@@ -94,7 +155,12 @@
       "name": "すごいキズぐすり",
       "category": "healing",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hyper-potion.png",
-      "flavor_text": "スプレーしきの　キズぐすり。\nポケモン　１ひきの　ＨＰを\n２００だけ　かいふくする。"
+      "flavor_text": "スプレーしきの　キズぐすり。\nポケモン　１ひきの　ＨＰを\n２００だけ　かいふくする。",
+      "tags": [
+        "アサギシティ",
+        "チョウジタウン",
+        "フスベシティ"
+      ]
     },
     {
       "id": 26,
@@ -102,7 +168,14 @@
       "name": "いいキズぐすり",
       "category": "healing",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-potion.png",
-      "flavor_text": "スプレーしきの　キズぐすり。\nポケモン　１ひきの　ＨＰを\n５０だけ　かいふくする。"
+      "flavor_text": "スプレーしきの　キズぐすり。\nポケモン　１ひきの　ＨＰを\n５０だけ　かいふくする。",
+      "tags": [
+        "ヒワダタウン",
+        "コガネ百貨店",
+        "エンジュシティ",
+        "アサギシティ",
+        "チョウジタウン"
+      ]
     },
     {
       "id": 27,
@@ -110,7 +183,11 @@
       "name": "なんでもなおし",
       "category": "status-cures",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-heal.png",
-      "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　じょうたいの\nいじょうを　すべて　かいふくする。"
+      "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　じょうたいの\nいじょうを　すべて　かいふくする。",
+      "tags": [
+        "コガネ百貨店",
+        "フスベシティ"
+      ]
     },
     {
       "id": 28,
@@ -118,7 +195,13 @@
       "name": "げんきのかけら",
       "category": "revival",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/revive.png",
-      "flavor_text": "ひんしに　なった　ポケモン\n１ひきを　げんきに　したうえで\nＨＰを　はんぶんまで　かいふくする。"
+      "flavor_text": "ひんしに　なった　ポケモン\n１ひきを　げんきに　したうえで\nＨＰを　はんぶんまで　かいふくする。",
+      "tags": [
+        "コガネ百貨店",
+        "エンジュシティ",
+        "チョウジタウン",
+        "フスベシティ"
+      ]
     },
     {
       "id": 30,
@@ -126,7 +209,10 @@
       "name": "おいしいみず",
       "category": "healing",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fresh-water.png",
-      "flavor_text": "ミネラル　たっぷりの　みず。\nポケモン　１ひきの　ＨＰを\n５０だけ　かいふくする。"
+      "flavor_text": "ミネラル　たっぷりの　みず。\nポケモン　１ひきの　ＨＰを\n５０だけ　かいふくする。",
+      "tags": [
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 31,
@@ -134,7 +220,10 @@
       "name": "サイコソーダ",
       "category": "healing",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soda-pop.png",
-      "flavor_text": "シュワっと　はじける　ソーダ。\nポケモン　１ひきの　ＨＰを\n６０だけ　かいふくする。"
+      "flavor_text": "シュワっと　はじける　ソーダ。\nポケモン　１ひきの　ＨＰを\n６０だけ　かいふくする。",
+      "tags": [
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 32,
@@ -142,7 +231,10 @@
       "name": "ミックスオレ",
       "category": "healing",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lemonade.png",
-      "flavor_text": "とても　あまい　ジュース。\nポケモン　１ひきの　ＨＰを\n８０だけ　かいふくする。"
+      "flavor_text": "とても　あまい　ジュース。\nポケモン　１ひきの　ＨＰを\n８０だけ　かいふくする。",
+      "tags": [
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 45,
@@ -150,7 +242,10 @@
       "name": "マックスアップ",
       "category": "vitamins",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hp-up.png",
-      "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　ＨＰの\nきそポイントを　あげる。"
+      "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　ＨＰの\nきそポイントを　あげる。",
+      "tags": [
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 46,
@@ -158,7 +253,10 @@
       "name": "タウリン",
       "category": "vitamins",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protein.png",
-      "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　こうげきの\nきそポイントを　あげる。"
+      "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　こうげきの\nきそポイントを　あげる。",
+      "tags": [
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 47,
@@ -166,7 +264,10 @@
       "name": "ブロムヘキシン",
       "category": "vitamins",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron.png",
-      "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　ぼうぎょの\nきそポイントを　あげる。"
+      "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　ぼうぎょの\nきそポイントを　あげる。",
+      "tags": [
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 48,
@@ -174,7 +275,10 @@
       "name": "インドメタシン",
       "category": "vitamins",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/carbos.png",
-      "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　すばやさの\nきそポイントを　あげる。"
+      "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　すばやさの\nきそポイントを　あげる。",
+      "tags": [
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 49,
@@ -182,15 +286,21 @@
       "name": "リゾチウム",
       "category": "vitamins",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/calcium.png",
-      "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　とくこうの\nきそポイントを　あげる。"
+      "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　とくこうの\nきそポイントを　あげる。",
+      "tags": [
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 226,
       "cost": 1000,
       "name": "もくたん",
-      "name": "type-enhancement",
+      "category": "type-enhancement",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charcoal.png",
-      "flavor_text": "ものを　もやす　ねんりょう。\nもたせると　ほのおタイプの\nわざの　いりょくが　あがる。"
+      "flavor_text": "ものを　もやす　ねんりょう。\nもたせると　ほのおタイプの\nわざの　いりょくが　あがる。",
+      "tags": [
+        "ヒワダタウン"
+      ]
     },
     {
       "id": 57,
@@ -198,7 +308,11 @@
       "name": "プラスパワー",
       "category": "stat-boosts",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack.png",
-      "flavor_text": "せんとうちゅうの　ポケモンの\nこうげきを　あげる　どうぐ。\nひっこめると　もとに　もどる。"
+      "flavor_text": "せんとうちゅうの　ポケモンの\nこうげきを　あげる　どうぐ。\nひっこめると　もとに　もどる。",
+      "tags": [
+        "キキョウシティ",
+        "フスベシティ"
+      ]
     },
     {
       "id": 58,
@@ -206,7 +320,11 @@
       "name": "ディフェンダー",
       "category": "stat-boosts",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense.png",
-      "flavor_text": "せんとうちゅうの　ポケモンの\nぼうぎょを　あげる　どうぐ。\nひっこめると　もとに　もどる。"
+      "flavor_text": "せんとうちゅうの　ポケモンの\nぼうぎょを　あげる　どうぐ。\nひっこめると　もとに　もどる。",
+      "tags": [
+        "キキョウシティ",
+        "フスベシティ"
+      ]
     },
     {
       "id": 59,
@@ -214,7 +332,10 @@
       "name": "スピーダー",
       "category": "stat-boosts",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed.png",
-      "flavor_text": "せんとうちゅうの　ポケモンの\nすばやさを　あげる　どうぐ。\nひっこめると　もとに　もどる。"
+      "flavor_text": "せんとうちゅうの　ポケモンの\nすばやさを　あげる　どうぐ。\nひっこめると　もとに　もどる。",
+      "tags": [
+        "キキョウシティ"
+      ]
     },
     {
       "id": 60,
@@ -222,7 +343,8 @@
       "name": "ヨクアタール",
       "category": "stat-boosts",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy.png",
-      "flavor_text": "せんとうちゅうの　ポケモンの\nめいちゅうを　あげる　どうぐ。\nひっこめると　もとに　もどる。"
+      "flavor_text": "せんとうちゅうの　ポケモンの\nめいちゅうを　あげる　どうぐ。\nひっこめると　もとに　もどる。",
+      "tags": []
     },
     {
       "id": 61,
@@ -230,7 +352,8 @@
       "name": "スペシャルアップ",
       "category": "stat-boosts",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk.png",
-      "flavor_text": "せんとうちゅうの　ポケモンの\nとくこうを　あげる　どうぐ。\nひっこめると　もとに　もどる。"
+      "flavor_text": "せんとうちゅうの　ポケモンの\nとくこうを　あげる　どうぐ。\nひっこめると　もとに　もどる。",
+      "tags": []
     },
     {
       "id": 55,
@@ -238,7 +361,8 @@
       "name": "エフェクトガード",
       "category": "stat-boosts",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/guard-spec.png",
-      "flavor_text": "せんとうちゅう　５ターンの　あいだ\nみかたの　のうりょくを\nさげられなくする　どうぐ。"
+      "flavor_text": "せんとうちゅう　５ターンの　あいだ\nみかたの　のうりょくを\nさげられなくする　どうぐ。",
+      "tags": []
     },
     {
       "id": 56,
@@ -246,7 +370,8 @@
       "name": "クリティカット",
       "category": "stat-boosts",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit.png",
-      "flavor_text": "きゅうしょりつが　おおきく　あがる。\nいちどしか　つかうことが　できない。\nひっこめると　もとに　もどる。"
+      "flavor_text": "きゅうしょりつが　おおきく　あがる。\nいちどしか　つかうことが　できない。\nひっこめると　もとに　もどる。",
+      "tags": []
     },
     {
       "id": 63,
@@ -254,7 +379,10 @@
       "name": "ピッピにんぎょう",
       "category": "spelunking",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-doll.png",
-      "flavor_text": "ポケモンの　きを　ひかせる　どうぐ。\nやせいポケモンとの　せんとうから\nぜったいに　にげられる。"
+      "flavor_text": "ポケモンの　きを　ひかせる　どうぐ。\nやせいポケモンとの　せんとうから\nぜったいに　にげられる。",
+      "tags": [
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 79,
@@ -262,7 +390,11 @@
       "name": "むしよけスプレー",
       "category": "spelunking",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/repel.png",
-      "flavor_text": "１００ぽ　すすむ　あいだ\nよわい　やせいの　ポケモンが\nまったく　でて　こなくなる。"
+      "flavor_text": "１００ぽ　すすむ　あいだ\nよわい　やせいの　ポケモンが\nまったく　でて　こなくなる。",
+      "tags": [
+        "ヒワダタウン",
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 76,
@@ -270,7 +402,10 @@
       "name": "シルバースプレー",
       "category": "spelunking",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-repel.png",
-      "flavor_text": "２００ぽ　すすむ　あいだ\nよわい　やせいの　ポケモンが\nまったく　でて　こなくなる。"
+      "flavor_text": "２００ぽ　すすむ　あいだ\nよわい　やせいの　ポケモンが\nまったく　でて　こなくなる。",
+      "tags": [
+        "アサギシティ"
+      ]
     },
     {
       "id": 77,
@@ -278,7 +413,10 @@
       "name": "ゴールドスプレー",
       "category": "spelunking",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-repel.png",
-      "flavor_text": "２５０ぽ　すすむ　あいだ\nよわい　やせいの　ポケモンが\nまったく　でて　こなくなる。"
+      "flavor_text": "２５０ぽ　すすむ　あいだ\nよわい　やせいの　ポケモンが\nまったく　でて　こなくなる。",
+      "tags": [
+        "フスベシティ"
+      ]
     },
     {
       "id": 78,
@@ -286,7 +424,12 @@
       "name": "あなぬけのヒモ",
       "category": "spelunking",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/escape-rope.png",
-      "flavor_text": "ながくて　じょうぶな　ヒモ。\nどうくつや　ダンジョンから\nぬけだすことが　できる。"
+      "flavor_text": "ながくて　じょうぶな　ヒモ。\nどうくつや　ダンジョンから\nぬけだすことが　できる。",
+      "tags": [
+        "キキョウシティ",
+        "ヒワダタウン",
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 306,
@@ -294,7 +437,10 @@
       "name": "わざマシン０２",
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-      "flavor_text": "するどく　とがった　きょだいな\nツメで　ひっかいて　こうげきする。\n"
+      "flavor_text": "するどく　とがった　きょだいな\nツメで　ひっかいて　こうげきする。\n",
+      "tags": [
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 312,
@@ -302,7 +448,10 @@
       "name": "わざマシン０８",
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-      "flavor_text": "ちからを　こめて　きんにくを\nぶあつくする　ことで　じぶんの\nこうげきと　ぼうぎょを　あげる。"
+      "flavor_text": "ちからを　こめて　きんにくを\nぶあつくする　ことで　じぶんの\nこうげきと　ぼうぎょを　あげる。",
+      "tags": [
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 314,
@@ -310,7 +459,8 @@
       "name": "わざマシン１０",
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-      "flavor_text": "わざを　つかった　ポケモンに　よって\nわざの　タイプが　かわる。\n"
+      "flavor_text": "わざを　つかった　ポケモンに　よって\nわざの　タイプが　かわる。\n",
+      "tags": []
     },
     {
       "id": 315,
@@ -318,7 +468,8 @@
       "name": "わざマシン１１",
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-      "flavor_text": "５ターンの　あいだ　ひざしを\nつよくして　ほのおタイプの\nわざの　いりょくを　あげる。"
+      "flavor_text": "５ターンの　あいだ　ひざしを\nつよくして　ほのおタイプの\nわざの　いりょくを　あげる。",
+      "tags": []
     },
     {
       "id": 321,
@@ -326,7 +477,8 @@
       "name": "わざマシン１７",
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-      "flavor_text": "こうげきを　まったく　うけない。\nわざを　れんぞくで　だすと\nしっぱい　しやすくなる。"
+      "flavor_text": "こうげきを　まったく　うけない。\nわざを　れんぞくで　だすと\nしっぱい　しやすくなる。",
+      "tags": []
     },
     {
       "id": 322,
@@ -334,7 +486,8 @@
       "name": "わざマシン１８",
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-      "flavor_text": "５ターンの　あいだ　あめを　ふらして\nみずタイプの　わざの　いりょくを\nあげる。"
+      "flavor_text": "５ターンの　あいだ　あめを　ふらして\nみずタイプの　わざの　いりょくを\nあげる。",
+      "tags": []
     },
     {
       "id": 337,
@@ -342,7 +495,10 @@
       "name": "わざマシン３３",
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-      "flavor_text": "５ターンの　あいだ　ふしぎな　かべで\nあいてから　うける　ぶつりわざの\nダメージを　よわめる。"
+      "flavor_text": "５ターンの　あいだ　ふしぎな　かべで\nあいてから　うける　ぶつりわざの\nダメージを　よわめる。",
+      "tags": [
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 341,
@@ -350,7 +506,8 @@
       "name": "わざマシン３７",
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-      "flavor_text": "５ターンの　あいだ　すなあらしで\nじめん　いわ　はがね　タイプいがいに\nダメージを　あたえる。"
+      "flavor_text": "５ターンの　あいだ　すなあらしで\nじめん　いわ　はがね　タイプいがいに\nダメージを　あたえる。",
+      "tags": []
     },
     {
       "id": 345,
@@ -358,7 +515,10 @@
       "name": "わざマシン４１",
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-      "flavor_text": "いちゃもんを　つけて　おなじわざを\nれんぞくで　だせない　ようにする。\n"
+      "flavor_text": "いちゃもんを　つけて　おなじわざを\nれんぞくで　だせない　ようにする。\n",
+      "tags": [
+        "コガネ百貨店"
+      ]
     },
     {
       "id": 352,
@@ -366,7 +526,10 @@
       "name": "わざマシン４８",
       "category": "all-machines",
       "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-      "flavor_text": "うたで　あいてを　こうげきする。\nみんなで　つかうと　れんぞくで\nだせて　いりょくも　あがる。"
+      "flavor_text": "うたで　あいてを　こうげきする。\nみんなで　つかうと　れんぞくで\nだせて　いりょくも　あがる。",
+      "tags": [
+        "コガネ百貨店"
+      ]
     }
   ]
 }
