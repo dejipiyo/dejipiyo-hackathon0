@@ -1,0 +1,1018 @@
+{
+  "data": {
+    "pokemon_v2_item": [
+      {
+        "id": 2,
+        "cost": 800,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "ハイパーボール"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "standard-balls"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/ultra-ball.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "スーパーボールよりも　さらに\nポケモンを　つかまえやすくなった\nすごく　せいのうのいい　ボール。"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "cost": 600,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "スーパーボール"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "standard-balls"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/great-ball.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "モンスターボールよりも　さらに\nポケモンを　つかまえやすくなった\nすこし　せいのうのいい　ボール。"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "cost": 200,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "モンスターボール"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "standard-balls"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/poke-ball.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "やせいの　ポケモンに　なげて\nつかまえる　ための　ボール。\nカプセルしきに　なっている。"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "cost": 200,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "キズぐすり"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "healing"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/potion.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "スプレーしきの　キズぐすり。\nポケモン　１ひきの　ＨＰを\n２０だけ　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "cost": 200,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "どくけし"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "status-cures"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/antidote.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　どくの\nじょうたいを　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "cost": 200,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "やけどなおし"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "status-cures"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/burn-heal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　やけどの\nじょうたいを　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "cost": 200,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "こおりなおし"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "status-cures"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/ice-heal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　こおりの\nじょうたいを　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "cost": 200,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "ねむけざまし"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "status-cures"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/awakening.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　ねむりの\nじょうたいを　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "cost": 200,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "まひなおし"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "status-cures"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/paralyze-heal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　まひの\nじょうたいを　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "cost": 3000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "かいふくのくすり"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "healing"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/full-restore.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "ポケモン　１ひきの　ＨＰと\nじょうたい　いじょうを　すべて\nかいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "cost": 2500,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "まんたんのくすり"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "healing"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/max-potion.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "スプレーしきの　キズぐすり。\nポケモン　１ひきの　ＨＰを\nすべて　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "cost": 1500,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "すごいキズぐすり"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "healing"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/hyper-potion.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "スプレーしきの　キズぐすり。\nポケモン　１ひきの　ＨＰを\n２００だけ　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "cost": 700,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "いいキズぐすり"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "healing"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/super-potion.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "スプレーしきの　キズぐすり。\nポケモン　１ひきの　ＨＰを\n５０だけ　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "cost": 400,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "なんでもなおし"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "status-cures"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/full-heal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "スプレーしきの　くすり。\nポケモン　１ひきの　じょうたいの\nいじょうを　すべて　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "cost": 2000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "げんきのかけら"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "revival"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/revive.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "ひんしに　なった　ポケモン\n１ひきを　げんきに　したうえで\nＨＰを　はんぶんまで　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "cost": 200,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "おいしいみず"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "healing"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/fresh-water.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "ミネラル　たっぷりの　みず。\nポケモン　１ひきの　ＨＰを\n５０だけ　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "cost": 300,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "サイコソーダ"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "healing"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/soda-pop.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "シュワっと　はじける　ソーダ。\nポケモン　１ひきの　ＨＰを\n６０だけ　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "cost": 400,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "ミックスオレ"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "healing"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/lemonade.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "とても　あまい　ジュース。\nポケモン　１ひきの　ＨＰを\n８０だけ　かいふくする。"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "cost": 10000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "マックスアップ"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "vitamins"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/hp-up.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　ＨＰの\nきそポイントを　あげる。"
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "cost": 10000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "タウリン"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "vitamins"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/protein.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　こうげきの\nきそポイントを　あげる。"
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "cost": 10000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "ブロムヘキシン"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "vitamins"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/iron.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　ぼうぎょの\nきそポイントを　あげる。"
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "cost": 10000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "インドメタシン"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "vitamins"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/carbos.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　すばやさの\nきそポイントを　あげる。"
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "cost": 10000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "リゾチウム"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "vitamins"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/calcium.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "ポケモンの　えいようドリンク。\nポケモン　１ひきの　とくこうの\nきそポイントを　あげる。"
+          }
+        ]
+      },
+      {
+        "id": 226,
+        "cost": 1000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "もくたん"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "type-enhancement"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/charcoal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "ものを　もやす　ねんりょう。\nもたせると　ほのおタイプの\nわざの　いりょくが　あがる。"
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "cost": 1000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "プラスパワー"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "stat-boosts"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/x-attack.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "せんとうちゅうの　ポケモンの\nこうげきを　あげる　どうぐ。\nひっこめると　もとに　もどる。"
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "cost": 2000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "ディフェンダー"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "stat-boosts"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/x-defense.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "せんとうちゅうの　ポケモンの\nぼうぎょを　あげる　どうぐ。\nひっこめると　もとに　もどる。"
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "cost": 1000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "スピーダー"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "stat-boosts"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/x-speed.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "せんとうちゅうの　ポケモンの\nすばやさを　あげる　どうぐ。\nひっこめると　もとに　もどる。"
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "cost": 1000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "ヨクアタール"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "stat-boosts"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/x-accuracy.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "せんとうちゅうの　ポケモンの\nめいちゅうを　あげる　どうぐ。\nひっこめると　もとに　もどる。"
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "cost": 1000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "スペシャルアップ"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "stat-boosts"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/x-sp-atk.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "せんとうちゅうの　ポケモンの\nとくこうを　あげる　どうぐ。\nひっこめると　もとに　もどる。"
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "cost": 1500,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "エフェクトガード"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "stat-boosts"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/guard-spec.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "せんとうちゅう　５ターンの　あいだ\nみかたの　のうりょくを\nさげられなくする　どうぐ。"
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "cost": 1000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "クリティカット"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "stat-boosts"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/dire-hit.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "きゅうしょりつが　おおきく　あがる。\nいちどしか　つかうことが　できない。\nひっこめると　もとに　もどる。"
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "cost": 300,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "ピッピにんぎょう"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "spelunking"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/poke-doll.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "ポケモンの　きを　ひかせる　どうぐ。\nやせいポケモンとの　せんとうから\nぜったいに　にげられる。"
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "cost": 400,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "むしよけスプレー"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "spelunking"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/repel.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "１００ぽ　すすむ　あいだ\nよわい　やせいの　ポケモンが\nまったく　でて　こなくなる。"
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "cost": 700,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "シルバースプレー"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "spelunking"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/super-repel.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "２００ぽ　すすむ　あいだ\nよわい　やせいの　ポケモンが\nまったく　でて　こなくなる。"
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "cost": 900,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "ゴールドスプレー"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "spelunking"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/max-repel.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "２５０ぽ　すすむ　あいだ\nよわい　やせいの　ポケモンが\nまったく　でて　こなくなる。"
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "cost": 300,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "あなぬけのヒモ"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "spelunking"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/escape-rope.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "ながくて　じょうぶな　ヒモ。\nどうくつや　ダンジョンから\nぬけだすことが　できる。"
+          }
+        ]
+      },
+      {
+        "id": 306,
+        "cost": 1000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "わざマシン０２"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "all-machines"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/tm-normal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "するどく　とがった　きょだいな\nツメで　ひっかいて　こうげきする。\n"
+          }
+        ]
+      },
+      {
+        "id": 312,
+        "cost": 50000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "わざマシン０８"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "all-machines"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/tm-normal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "ちからを　こめて　きんにくを\nぶあつくする　ことで　じぶんの\nこうげきと　ぼうぎょを　あげる。"
+          }
+        ]
+      },
+      {
+        "id": 314,
+        "cost": 1000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "わざマシン１０"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "all-machines"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/tm-normal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "わざを　つかった　ポケモンに　よって\nわざの　タイプが　かわる。\n"
+          }
+        ]
+      },
+      {
+        "id": 315,
+        "cost": 1000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "わざマシン１１"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "all-machines"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/tm-normal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "５ターンの　あいだ　ひざしを\nつよくして　ほのおタイプの\nわざの　いりょくを　あげる。"
+          }
+        ]
+      },
+      {
+        "id": 321,
+        "cost": 10000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "わざマシン１７"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "all-machines"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/tm-normal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "こうげきを　まったく　うけない。\nわざを　れんぞくで　だすと\nしっぱい　しやすくなる。"
+          }
+        ]
+      },
+      {
+        "id": 322,
+        "cost": 10000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "わざマシン１８"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "all-machines"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/tm-normal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "５ターンの　あいだ　あめを　ふらして\nみずタイプの　わざの　いりょくを\nあげる。"
+          }
+        ]
+      },
+      {
+        "id": 337,
+        "cost": 10000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "わざマシン３３"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "all-machines"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/tm-normal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "５ターンの　あいだ　ふしぎな　かべで\nあいてから　うける　ぶつりわざの\nダメージを　よわめる。"
+          }
+        ]
+      },
+      {
+        "id": 341,
+        "cost": 1000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "わざマシン３７"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "all-machines"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/tm-normal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "５ターンの　あいだ　すなあらしで\nじめん　いわ　はがね　タイプいがいに\nダメージを　あたえる。"
+          }
+        ]
+      },
+      {
+        "id": 345,
+        "cost": 10000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "わざマシン４１"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "all-machines"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/tm-normal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "いちゃもんを　つけて　おなじわざを\nれんぞくで　だせない　ようにする。\n"
+          }
+        ]
+      },
+      {
+        "id": 352,
+        "cost": 1000,
+        "pokemon_v2_itemnames": [
+          {
+            "name": "わざマシン４８"
+          }
+        ],
+        "pokemon_v2_itemcategory": {
+          "name": "all-machines"
+        },
+        "pokemon_v2_itemsprites": [
+          {
+            "sprites": "{\"default\": \"/media/sprites/items/tm-normal.png\"}"
+          }
+        ],
+        "pokemon_v2_itemflavortexts": [
+          {
+            "flavor_text": "うたで　あいてを　こうげきする。\nみんなで　つかうと　れんぞくで\nだせて　いりょくも　あがる。"
+          }
+        ]
+      }
+    ]
+  }
+}

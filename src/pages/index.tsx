@@ -1,5 +1,8 @@
 import Head from 'next/head';
+import data from '../../items.json';
 import type { NextPage } from 'next';
+
+console.log(data);
 
 const Index: NextPage<void> = () => (
   <>
