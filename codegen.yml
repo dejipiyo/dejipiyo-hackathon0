@@ -1,0 +1,17 @@
+overwrite: true
+schema:
+  # - ${SCHEMA_PATH:http://localhost/graphql} #TODO: リビルド側のバックエンド実装されたらコメントオンにしてpokeapiの関連全般消す
+  - https://graphql-pokemon2.vercel.app
+  - src/graphql/generated/local.graphql
+documents: 'src/graphql/**/*.graphql'
+generates:
+  src/graphql/generated/index.ts:
+    plugins:
+      - 'typescript'
+      - 'typescript-operations'
+      - 'typescript-react-apollo'
+      - 'typescript-msw'
+    config:
+      enumsAsTypes: true
+      withHooks: true
+      maybeValue: T | undefined
