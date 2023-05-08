@@ -5087,10 +5087,10 @@ levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-libphonenumber-js@^1.10.21:
-  version "1.10.21"
-  resolved "https://registry.yarnpkg.com/libphonenumber-js/-/libphonenumber-js-1.10.21.tgz#860312cbec1389e36e28389161025c7817a3ae32"
-  integrity sha512-/udZhx49av2r2gZR/+xXSrwcR8smX/sDNrVpOFrvW+CA26TfYTVZfwb3MIDvmwAYMLs7pXuJjZX0VxxGpqPhsA==
+libphonenumber-js@^1.10.30:
+  version "1.10.30"
+  resolved "https://registry.yarnpkg.com/libphonenumber-js/-/libphonenumber-js-1.10.30.tgz#c0559d6c58dc1a7f189b88b7b23354c98b182848"
+  integrity sha512-PLGc+xfrQrkya/YK2/5X+bPpxRmyJBHM+xxz9krUdSgk4Vs2ZwxX5/Ow0lv3r9PDlDtNWb4u+it8MY5rZ0IyGw==
 
 lines-and-columns@^1.1.6:
   version "1.2.4"
