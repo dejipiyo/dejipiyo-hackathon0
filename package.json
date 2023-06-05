@@ -23,7 +23,7 @@
     "cross-fetch": "^3.1.5",
     "dayjs": "^1.11.7",
     "graphql": "^16.6.0",
-    "libphonenumber-js": "^1.10.21",
+    "libphonenumber-js": "^1.10.33",
     "next": "^13.2.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
